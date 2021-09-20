@@ -2,3 +2,5 @@ Breast Cancer is a severe and common disease that affects millions of women. Ear
 
 Breast Cancer data analysis
 http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
+
+Use the DataSet and run the .py file to check out the accuracy of the program.
